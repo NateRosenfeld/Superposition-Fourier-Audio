@@ -1,65 +1,23 @@
-# superpositionFourier
- nate's dumb project
+This program was created by, belongs to, and originates from Nathaniel Oscar Rosenfeld et al. 2024 Bay Ridge Preparatory School.
 
-11/25/24
+Contact: nate.rosenfeld@bayridgeprep.org 9178828044
 
-hallooo wurlldd! i would like to be a physic person
-nate et al. (fancy)
+---
 
-a tiempo mementio moria gloria 
+# Understanding Superpositition via auditory simulations
 
-1 2 3 testing 3 2 1
+This program is intended to allow the user to enter a specific number of outcomes for a quantum state. 
+Each outcome is represented by a frequency (a sinusoidal wave), starting at 600 Hz and incrementing by 50 Hz (this setting is adjustable).
+There are three total graphs, one for the plots of the frequency waves and the sum of them, one for the fast-Fourier-transform of the waves, and one for a spectrogram of the waves.
+At the top lies the superposition equation custom-made for the given quantum state.
 
-this is a READ ME! FILE! in a computer, YOUR COMPUTER!
+The purpose of this program is to give new ways to understand superposition, and to simulate it in seperate 
+senses. Additionally, this program gives new insight to quantum physics and superposition, by demonstrating
+how when decomposing superposition into sinusoidal waves, it derives a Fourier transform.
 
-this project is essentially meant to be a basic representation of a custom supoerposition as different frequencies.
-this essentially ties itself into how fourier transforms work, and how they can be used to decompose any given signal into its constituent frequencies.
-it should generate random waves based off your input, start at 600ishhz, and rand it by 50. 
-press enter to do stuff. i cant say "collapse" because smallwood will get on me for that.
+---
+Please feel free to use this program with the permission of Nathaniel Rosenfeld via email. Happy computing and decomposing!
 
-whos readying this??
+---
 
--nate (moya gorcki)
--michael (angelo/daleus/jr!)
--alex (russiaannnn)
--smallwood (phd texan)
--possibly others who are interested in this.
-
-                                    ████                                    
-                                  ██    ██                                  
-                                ██        ██                                
-                              ██            ██                              
-                              ██            ██                              
-                              ██            ██                              
-      ████                  ██                ██                            
-    ████████                ██                ██                ████████    
-  ██  ████  ████            ██                ██            ████        ██  
-██              ████      ██                    ██      ████              ██
-██                  ████  ██                    ██  ████                  ██
-██                      ████                    ████                      ██
-██                        ██████            ██████                  ████  ██
-  ██                    ██      ████    ████      ██              ████████  
-    ██                  ██          ████          ██              ████████  
-      ██                ██      ████    ████      ██                ████    
-        ████            ██  ████            ████  ██            ████        
-            ████        ████        ████        ████        ████            
-                ██████████        ████████        ██████████                
-                ██████████        ████████        ██████████                
-            ████        ████        ████        ████        ████            
-        ████            ██  ████            ████  ██            ████        
-      ██                ██      ████    ████      ██                ██      
-    ██                  ██          ████          ██                  ██    
-  ██                    ██      ████    ████      ██                    ██  
-██                        ██████            ██████                        ██
-██                      ████                    ████                      ██
-██                  ████  ██                    ██  ████                  ██
-██              ████      ██                    ██      ████              ██
-  ██        ████            ██                ██            ████        ██  
-    ████████                ██                ██                ████████    
-                            ████              ██                            
-                              ██▓▓          ▓▓░░                            
-                            ████████        ██                              
-                            ████████        ██                              
-                              ████        ██                                
-                                  ██    ██                                  
-                                    ████                                    
+(っ◕‿◕)っ    |Ψ⟩ = α|u1⟩ + β|u2⟩
