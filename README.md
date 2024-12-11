@@ -24,5 +24,5 @@ Have a lovely day! (っ◕‿◕)っ    |Ψ⟩ = α|u1⟩ + β|u2⟩
 
 ---
 
-![alt text](https://github.com/NateRosenfeld/superpositionFourier/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/NateRosenfeld/superpositionFourier/blob/main/Screenshot%202024-12-11%20135637.png)
 
