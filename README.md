@@ -20,4 +20,9 @@ Please feel free to use this program with the permission of Nathaniel Rosenfeld 
 
 ---
 
-(っ◕‿◕)っ    |Ψ⟩ = α|u1⟩ + β|u2⟩
+Have a lovely day! (っ◕‿◕)っ    |Ψ⟩ = α|u1⟩ + β|u2⟩
+
+---
+
+![alt text](https://github.com/NateRosenfeld/superpositionFourier/blob/[branch]/image.jpg?raw=true)
+
