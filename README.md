@@ -24,5 +24,5 @@ Have a lovely day! (っ◕‿◕)っ    |Ψ⟩ = α|u1⟩ + β|u2⟩
 
 ---
 
-![alt text][(https://github.com/NateRosenfeld/Superposition-Fourier-Audio/blob/main/repoDemoSFA)
+![alt text][([https://github.com/NateRosenfeld/Superposition-Fourier-Audio/blob/main/repoDemoSFA])
 
